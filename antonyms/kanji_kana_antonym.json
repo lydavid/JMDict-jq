@@ -1,0 +1,2252 @@
+[
+  {
+    "kanji": "外",
+    "kana": "そと・と",
+    "antonym": "うち"
+  },
+  {
+    "kanji": "中・內・内・家・裏・裡",
+    "kana": "うち",
+    "antonym": "そと・よそ"
+  },
+  {
+    "kanji": "",
+    "kana": "セーフ",
+    "antonym": "アウト"
+  },
+  {
+    "kanji": "",
+    "kana": "ダウン",
+    "antonym": "アップ"
+  },
+  {
+    "kanji": "",
+    "kana": "オーバ・オーバー",
+    "antonym": "アンダー"
+  },
+  {
+    "kanji": "",
+    "kana": "マウント",
+    "antonym": "アンマウント"
+  },
+  {
+    "kanji": "",
+    "kana": "ドライ",
+    "antonym": "ウェット"
+  },
+  {
+    "kanji": "",
+    "kana": "オフレコ",
+    "antonym": "オンレコ"
+  },
+  {
+    "kanji": "",
+    "kana": "アンダー",
+    "antonym": "オーバー"
+  },
+  {
+    "kanji": "",
+    "kana": "ピン",
+    "antonym": "キリ"
+  },
+  {
+    "kanji": "",
+    "kana": "ロング",
+    "antonym": "ショート"
+  },
+  {
+    "kanji": "",
+    "kana": "ドライ",
+    "antonym": "スイート"
+  },
+  {
+    "kanji": "ＯＵＴ",
+    "kana": "アウト",
+    "antonym": "セーフ"
+  },
+  {
+    "kanji": "",
+    "kana": "ハード",
+    "antonym": "ソフト"
+  },
+  {
+    "kanji": "猫",
+    "kana": "ねこ・ネコ",
+    "antonym": "タチ"
+  },
+  {
+    "kanji": "",
+    "kana": "アップ",
+    "antonym": "ダウン"
+  },
+  {
+    "kanji": "",
+    "kana": "ライブ・ライヴ",
+    "antonym": "デッド"
+  },
+  {
+    "kanji": "",
+    "kana": "メリット",
+    "antonym": "デメリット"
+  },
+  {
+    "kanji": "",
+    "kana": "ウェット・ウエット",
+    "antonym": "ドライ"
+  },
+  {
+    "kanji": "",
+    "kana": "スィート・スイート・スウィート",
+    "antonym": "ドライ"
+  },
+  {
+    "kanji": "",
+    "kana": "ポジティブ・ポジティヴ",
+    "antonym": "ネガティブ"
+  },
+  {
+    "kanji": "",
+    "kana": "タッチ",
+    "antonym": "ノータッチ"
+  },
+  {
+    "kanji": "",
+    "kana": "ロー",
+    "antonym": "ハイ"
+  },
+  {
+    "kanji": "",
+    "kana": "ソフト",
+    "antonym": "ハード"
+  },
+  {
+    "kanji": "",
+    "kana": "リッチ",
+    "antonym": "プア"
+  },
+  {
+    "kanji": "",
+    "kana": "マイナス",
+    "antonym": "プラス"
+  },
+  {
+    "kanji": "",
+    "kana": "ベースアップ・ベース・アップ",
+    "antonym": "ベースダウン"
+  },
+  {
+    "kanji": "",
+    "kana": "コールド",
+    "antonym": "ホット"
+  },
+  {
+    "kanji": "",
+    "kana": "ネガチィブ・ネガチブ・ネガティブ・ネガティヴ",
+    "antonym": "ポジティブ"
+  },
+  {
+    "kanji": "",
+    "kana": "プラス",
+    "antonym": "マイナス"
+  },
+  {
+    "kanji": "",
+    "kana": "メイジャー・メジャー・メージャー",
+    "antonym": "マイナー"
+  },
+  {
+    "kanji": "",
+    "kana": "マイナー",
+    "antonym": "メジャー"
+  },
+  {
+    "kanji": "",
+    "kana": "デメリット",
+    "antonym": "メリット"
+  },
+  {
+    "kanji": "",
+    "kana": "デッド",
+    "antonym": "ライブ"
+  },
+  {
+    "kanji": "",
+    "kana": "ショート",
+    "antonym": "ロング"
+  },
+  {
+    "kanji": "",
+    "kana": "ハイ",
+    "antonym": "ロー"
+  },
+  {
+    "kanji": "多様",
+    "kana": "たよう",
+    "antonym": "一様"
+  },
+  {
+    "kanji": "特殊",
+    "kana": "とくしゅ",
+    "antonym": "一般・普遍"
+  },
+  {
+    "kanji": "下がり",
+    "kana": "さがり",
+    "antonym": "上がり"
+  },
+  {
+    "kanji": "下がる・下る",
+    "kana": "さがる",
+    "antonym": "上がる"
+  },
+  {
+    "kanji": "下り・降り",
+    "kana": "くだり",
+    "antonym": "上り"
+  },
+  {
+    "kanji": "下手",
+    "kana": "へた・ヘタ",
+    "antonym": "上手・じょうず・1"
+  },
+  {
+    "kanji": "下流",
+    "kana": "かりゅう",
+    "antonym": "上流"
+  },
+  {
+    "kanji": "下記",
+    "kana": "かき",
+    "antonym": "上記"
+  },
+  {
+    "kanji": "上がり・揚がり",
+    "kana": "あがり",
+    "antonym": "下がり"
+  },
+  {
+    "kanji": "上がる・上る・挙がる・揚がる",
+    "kana": "あがる",
+    "antonym": "下がる"
+  },
+  {
+    "kanji": "上げ・揚げ",
+    "kana": "あげ",
+    "antonym": "下げ"
+  },
+  {
+    "kanji": "上",
+    "kana": "かみ",
+    "antonym": "下・しも・1"
+  },
+  {
+    "kanji": "上向き",
+    "kana": "うえむき・うわむき",
+    "antonym": "下向き"
+  },
+  {
+    "kanji": "登山",
+    "kana": "とざん",
+    "antonym": "下山"
+  },
+  {
+    "kanji": "上手",
+    "kana": "じょうしゅ・じょうず・じょうて",
+    "antonym": "下手・へた・1"
+  },
+  {
+    "kanji": "上流",
+    "kana": "じょうりゅう",
+    "antonym": "下流"
+  },
+  {
+    "kanji": "上記",
+    "kana": "じょうき",
+    "antonym": "下記"
+  },
+  {
+    "kanji": "乗車",
+    "kana": "じょうしゃ",
+    "antonym": "下車・降車"
+  },
+  {
+    "kanji": "上達",
+    "kana": "じょうたつ",
+    "antonym": "下達"
+  },
+  {
+    "kanji": "便利",
+    "kana": "べんり",
+    "antonym": "不便"
+  },
+  {
+    "kanji": "好運・幸運",
+    "kana": "こううん",
+    "antonym": "不運"
+  },
+  {
+    "kanji": "客観",
+    "kana": "かくかん・かっかん・きゃっかん",
+    "antonym": "主観"
+  },
+  {
+    "kanji": "客観的",
+    "kana": "かっかんてき・きゃっかんてき",
+    "antonym": "主観的"
+  },
+  {
+    "kanji": "下車",
+    "kana": "げしゃ",
+    "antonym": "乗車"
+  },
+  {
+    "kanji": "天然",
+    "kana": "てんねん",
+    "antonym": "人工"
+  },
+  {
+    "kanji": "以下・已下",
+    "kana": "いか・いげ",
+    "antonym": "以上"
+  },
+  {
+    "kanji": "以上・已上",
+    "kana": "いじょう",
+    "antonym": "以下"
+  },
+  {
+    "kanji": "高い・高価い",
+    "kana": "たかい",
+    "antonym": "低い"
+  },
+  {
+    "kanji": "高尚",
+    "kana": "こうしょう",
+    "antonym": "低俗"
+  },
+  {
+    "kanji": "高品質",
+    "kana": "こうひんしつ",
+    "antonym": "低品質・ていひんしつ"
+  },
+  {
+    "kanji": "高層",
+    "kana": "こうそう",
+    "antonym": "低層"
+  },
+  {
+    "kanji": "高所",
+    "kana": "こうしょ",
+    "antonym": "低所"
+  },
+  {
+    "kanji": "高級",
+    "kana": "こうきゅう",
+    "antonym": "低級"
+  },
+  {
+    "kanji": "高額",
+    "kana": "こうがく",
+    "antonym": "低額"
+  },
+  {
+    "kanji": "不便",
+    "kana": "ふべん",
+    "antonym": "便利"
+  },
+  {
+    "kanji": "値下がり",
+    "kana": "ねさがり",
+    "antonym": "値上がり"
+  },
+  {
+    "kanji": "値下・値下げ",
+    "kana": "ねさげ",
+    "antonym": "値上げ"
+  },
+  {
+    "kanji": "値上がり・値上り",
+    "kana": "ねあがり",
+    "antonym": "値下がり"
+  },
+  {
+    "kanji": "値上・値上げ",
+    "kana": "ねあげ",
+    "antonym": "値下げ"
+  },
+  {
+    "kanji": "発車",
+    "kana": "はっしゃ",
+    "antonym": "停車"
+  },
+  {
+    "kanji": "必然",
+    "kana": "ひつぜん",
+    "antonym": "偶然"
+  },
+  {
+    "kanji": "真",
+    "kana": "しん",
+    "antonym": "偽"
+  },
+  {
+    "kanji": "債権",
+    "kana": "さいけん",
+    "antonym": "債務"
+  },
+  {
+    "kanji": "債務",
+    "kana": "さいむ",
+    "antonym": "債権"
+  },
+  {
+    "kanji": "劣勢",
+    "kana": "れっせい",
+    "antonym": "優勢"
+  },
+  {
+    "kanji": "劣等感",
+    "kana": "れっとうかん",
+    "antonym": "優越感"
+  },
+  {
+    "kanji": "当方",
+    "kana": "とうほう",
+    "antonym": "先方"
+  },
+  {
+    "kanji": "出る",
+    "kana": "でる",
+    "antonym": "入る・はいる・1"
+  },
+  {
+    "kanji": "退団",
+    "kana": "たいだん",
+    "antonym": "入団"
+  },
+  {
+    "kanji": "出国",
+    "kana": "しゅっこく・しゅつごく",
+    "antonym": "入国"
+  },
+  {
+    "kanji": "出場",
+    "kana": "しゅつじょう",
+    "antonym": "入場"
+  },
+  {
+    "kanji": "退場",
+    "kana": "たいじょう",
+    "antonym": "入場"
+  },
+  {
+    "kanji": "落選",
+    "kana": "らくせん",
+    "antonym": "入選"
+  },
+  {
+    "kanji": "私用",
+    "kana": "しよう",
+    "antonym": "公用"
+  },
+  {
+    "kanji": "抽象",
+    "kana": "ちゅうしょう",
+    "antonym": "具象・具体"
+  },
+  {
+    "kanji": "抽象的",
+    "kana": "ちゅうしょうてき",
+    "antonym": "具象的・具体的"
+  },
+  {
+    "kanji": "外",
+    "kana": "がい",
+    "antonym": "内"
+  },
+  {
+    "kanji": "他所・余所・外",
+    "kana": "よそ",
+    "antonym": "内・うち・6"
+  },
+  {
+    "kanji": "外側",
+    "kana": "がいそく・そとがわ",
+    "antonym": "内側"
+  },
+  {
+    "kanji": "円高",
+    "kana": "えんだか",
+    "antonym": "円安"
+  },
+  {
+    "kanji": "円安",
+    "kana": "えんやす",
+    "antonym": "円高"
+  },
+  {
+    "kanji": "熱い",
+    "kana": "あつい",
+    "antonym": "冷たい"
+  },
+  {
+    "kanji": "暖房・煖房",
+    "kana": "だんぼう",
+    "antonym": "冷房"
+  },
+  {
+    "kanji": "天才",
+    "kana": "てんさい",
+    "antonym": "凡才"
+  },
+  {
+    "kanji": "入る・這入る",
+    "kana": "はいる",
+    "antonym": "出る"
+  },
+  {
+    "kanji": "入国",
+    "kana": "にゅうこく・にゅうごく",
+    "antonym": "出国"
+  },
+  {
+    "kanji": "欠席",
+    "kana": "けっせき",
+    "antonym": "出席"
+  },
+  {
+    "kanji": "退社",
+    "kana": "たいしゃ",
+    "antonym": "出社"
+  },
+  {
+    "kanji": "共学",
+    "kana": "きょうがく",
+    "antonym": "別学・べつがく"
+  },
+  {
+    "kanji": "同居",
+    "kana": "どうきょ",
+    "antonym": "別居"
+  },
+  {
+    "kanji": "利己",
+    "kana": "りこ",
+    "antonym": "利他"
+  },
+  {
+    "kanji": "後列",
+    "kana": "こうれつ",
+    "antonym": "前列"
+  },
+  {
+    "kanji": "後ろ向き・後向き",
+    "kana": "うしろむき",
+    "antonym": "前向き"
+  },
+  {
+    "kanji": "後方",
+    "kana": "こうほう",
+    "antonym": "前方・ぜんぽう・1"
+  },
+  {
+    "kanji": "後期",
+    "kana": "こうき",
+    "antonym": "前期"
+  },
+  {
+    "kanji": "後者",
+    "kana": "こうしゃ",
+    "antonym": "前者"
+  },
+  {
+    "kanji": "後進",
+    "kana": "こうしん",
+    "antonym": "前進"
+  },
+  {
+    "kanji": "後退",
+    "kana": "こうたい",
+    "antonym": "前進"
+  },
+  {
+    "kanji": "被害者",
+    "kana": "ひがいしゃ",
+    "antonym": "加害者"
+  },
+  {
+    "kanji": "減点",
+    "kana": "げんてん",
+    "antonym": "加点"
+  },
+  {
+    "kanji": "減速",
+    "kana": "げんそく",
+    "antonym": "加速"
+  },
+  {
+    "kanji": "優位",
+    "kana": "ゆうい",
+    "antonym": "劣位"
+  },
+  {
+    "kanji": "優勢",
+    "kana": "ゆうせい",
+    "antonym": "劣勢"
+  },
+  {
+    "kanji": "優越感",
+    "kana": "ゆうえつかん",
+    "antonym": "劣等感"
+  },
+  {
+    "kanji": "負け",
+    "kana": "まけ",
+    "antonym": "勝ち・かち"
+  },
+  {
+    "kanji": "負け越し",
+    "kana": "まけこし",
+    "antonym": "勝ち越し"
+  },
+  {
+    "kanji": "敗北",
+    "kana": "はいぼく",
+    "antonym": "勝利"
+  },
+  {
+    "kanji": "敗訴",
+    "kana": "はいそ",
+    "antonym": "勝訴"
+  },
+  {
+    "kanji": "怠情・怠惰",
+    "kana": "たいだ",
+    "antonym": "勤勉"
+  },
+  {
+    "kanji": "復数・複数",
+    "kana": "ふくすう",
+    "antonym": "単数"
+  },
+  {
+    "kanji": "複雑",
+    "kana": "ふくざつ",
+    "antonym": "単純"
+  },
+  {
+    "kanji": "安全",
+    "kana": "あんせん・あんぜん",
+    "antonym": "危険"
+  },
+  {
+    "kanji": "落第",
+    "kana": "らくだい",
+    "antonym": "及第"
+  },
+  {
+    "kanji": "賛成",
+    "kana": "さんせい",
+    "antonym": "反対"
+  },
+  {
+    "kanji": "親日",
+    "kana": "しんにち",
+    "antonym": "反日"
+  },
+  {
+    "kanji": "支出",
+    "kana": "ししゅつ",
+    "antonym": "収入"
+  },
+  {
+    "kanji": "発散",
+    "kana": "はっさん",
+    "antonym": "収束"
+  },
+  {
+    "kanji": "能動",
+    "kana": "のうどう",
+    "antonym": "受動"
+  },
+  {
+    "kanji": "差し出し人・差出し人・差出人",
+    "kana": "さしだしにん",
+    "antonym": "受取人"
+  },
+  {
+    "kanji": "叙情・抒情",
+    "kana": "じょじょう",
+    "antonym": "叙事・じょじ"
+  },
+  {
+    "kanji": "不変",
+    "kana": "ふへん",
+    "antonym": "可変"
+  },
+  {
+    "kanji": "左",
+    "kana": "ひだり",
+    "antonym": "右・みぎ・1"
+  },
+  {
+    "kanji": "左翼",
+    "kana": "さよく・サヨク",
+    "antonym": "右翼"
+  },
+  {
+    "kanji": "別居",
+    "kana": "べっきょ",
+    "antonym": "同居"
+  },
+  {
+    "kanji": "実質的",
+    "kana": "じっしつてき",
+    "antonym": "名目的・めいもくてき"
+  },
+  {
+    "kanji": "小人",
+    "kana": "こども・こびと・しょうじん・しょうにん",
+    "antonym": "君子"
+  },
+  {
+    "kanji": "肯定",
+    "kana": "こうてい",
+    "antonym": "否定"
+  },
+  {
+    "kanji": "排気",
+    "kana": "はいき",
+    "antonym": "吸気"
+  },
+  {
+    "kanji": "敵",
+    "kana": "てき",
+    "antonym": "味方"
+  },
+  {
+    "kanji": "悪・惡",
+    "kana": "あく",
+    "antonym": "善"
+  },
+  {
+    "kanji": "無し",
+    "kana": "なし",
+    "antonym": "在り・あり・2"
+  },
+  {
+    "kanji": "地下",
+    "kana": "ちか",
+    "antonym": "地上"
+  },
+  {
+    "kanji": "地上",
+    "kana": "ちじょう",
+    "antonym": "地下"
+  },
+  {
+    "kanji": "派手",
+    "kana": "はで",
+    "antonym": "地味"
+  },
+  {
+    "kanji": "場外",
+    "kana": "じょうがい",
+    "antonym": "場内"
+  },
+  {
+    "kanji": "場内",
+    "kana": "じょうない",
+    "antonym": "場外"
+  },
+  {
+    "kanji": "酸性",
+    "kana": "さんせい",
+    "antonym": "塩基性"
+  },
+  {
+    "kanji": "減る",
+    "kana": "へる",
+    "antonym": "増える"
+  },
+  {
+    "kanji": "減らす",
+    "kana": "へらす",
+    "antonym": "増やす"
+  },
+  {
+    "kanji": "減少",
+    "kana": "げんしょう",
+    "antonym": "増加"
+  },
+  {
+    "kanji": "減産",
+    "kana": "げんさん",
+    "antonym": "増産"
+  },
+  {
+    "kanji": "內・内",
+    "kana": "ない",
+    "antonym": "外"
+  },
+  {
+    "kanji": "中たる・中る・当たる・当る",
+    "kana": "あたる",
+    "antonym": "外す"
+  },
+  {
+    "kanji": "内がわ・内側",
+    "kana": "うちがわ・ないそく",
+    "antonym": "外側"
+  },
+  {
+    "kanji": "少数",
+    "kana": "しょうすう",
+    "antonym": "多数"
+  },
+  {
+    "kanji": "一様",
+    "kana": "いちよう",
+    "antonym": "多様"
+  },
+  {
+    "kanji": "小量・少量",
+    "kana": "しょうりょう",
+    "antonym": "多量"
+  },
+  {
+    "kanji": "小額・少額",
+    "kana": "しょうがく",
+    "antonym": "多額"
+  },
+  {
+    "kanji": "小人",
+    "kana": "こども・こびと・しょうじん・しょうにん",
+    "antonym": "大人・おとな"
+  },
+  {
+    "kanji": "小口",
+    "kana": "こぐち",
+    "antonym": "大口・おおぐち・3"
+  },
+  {
+    "kanji": "小声",
+    "kana": "こごえ",
+    "antonym": "大声"
+  },
+  {
+    "kanji": "小差",
+    "kana": "しょうさ",
+    "antonym": "大差"
+  },
+  {
+    "kanji": "小幅",
+    "kana": "こはば",
+    "antonym": "大幅・おおはば・1"
+  },
+  {
+    "kanji": "小がら・小柄",
+    "kana": "こがら",
+    "antonym": "大柄・おおがら・1"
+  },
+  {
+    "kanji": "小がら・小柄",
+    "kana": "こがら",
+    "antonym": "大柄・おおがら・2"
+  },
+  {
+    "kanji": "人工",
+    "kana": "じんこう",
+    "antonym": "天然"
+  },
+  {
+    "kanji": "得点",
+    "kana": "とくてん",
+    "antonym": "失点"
+  },
+  {
+    "kanji": "嫌い",
+    "kana": "きらい",
+    "antonym": "好き・すき・1"
+  },
+  {
+    "kanji": "悪循環",
+    "kana": "あくじゅんかん",
+    "antonym": "好循環"
+  },
+  {
+    "kanji": "好き",
+    "kana": "すき",
+    "antonym": "嫌い"
+  },
+  {
+    "kanji": "攻撃",
+    "kana": "こうげき",
+    "antonym": "守備"
+  },
+  {
+    "kanji": "高価",
+    "kana": "こうか",
+    "antonym": "安価"
+  },
+  {
+    "kanji": "危険",
+    "kana": "きけん",
+    "antonym": "安全"
+  },
+  {
+    "kanji": "空車",
+    "kana": "からぐるま・くうしゃ",
+    "antonym": "実車"
+  },
+  {
+    "kanji": "主観的",
+    "kana": "しゅかんてき",
+    "antonym": "客観的"
+  },
+  {
+    "kanji": "反共",
+    "kana": "はんきょう",
+    "antonym": "容共"
+  },
+  {
+    "kanji": "暑い",
+    "kana": "あぢぃ・あぢい・あぢー・あつい・あづい",
+    "antonym": "寒い"
+  },
+  {
+    "kanji": "衆",
+    "kana": "しゅ・しゅう",
+    "antonym": "寡・か・1"
+  },
+  {
+    "kanji": "大事件",
+    "kana": "だいじけん",
+    "antonym": "小事件"
+  },
+  {
+    "kanji": "大口",
+    "kana": "おおくち・おおぐち",
+    "antonym": "小口・こぐち・2"
+  },
+  {
+    "kanji": "大声",
+    "kana": "おおごえ・たいせい",
+    "antonym": "小声"
+  },
+  {
+    "kanji": "大差",
+    "kana": "たいさ",
+    "antonym": "小差"
+  },
+  {
+    "kanji": "大巾・大幅",
+    "kana": "おおはば",
+    "antonym": "小幅"
+  },
+  {
+    "kanji": "大部分",
+    "kana": "だいぶぶん",
+    "antonym": "小部分"
+  },
+  {
+    "kanji": "高額",
+    "kana": "こうがく",
+    "antonym": "小額"
+  },
+  {
+    "kanji": "多数",
+    "kana": "たすう",
+    "antonym": "少数"
+  },
+  {
+    "kanji": "多量",
+    "kana": "たりょう",
+    "antonym": "少量"
+  },
+  {
+    "kanji": "多額",
+    "kana": "たがく",
+    "antonym": "少額"
+  },
+  {
+    "kanji": "右",
+    "kana": "みぎ",
+    "antonym": "左・ひだり"
+  },
+  {
+    "kanji": "右派",
+    "kana": "うは",
+    "antonym": "左派"
+  },
+  {
+    "kanji": "右翼",
+    "kana": "うよく・ウヨク",
+    "antonym": "左翼"
+  },
+  {
+    "kanji": "拙速",
+    "kana": "せっそく",
+    "antonym": "巧遅"
+  },
+  {
+    "kanji": "小人",
+    "kana": "こども・こびと・しょうじん・しょうにん",
+    "antonym": "巨人"
+  },
+  {
+    "kanji": "受取人",
+    "kana": "うけとりにん",
+    "antonym": "差出人"
+  },
+  {
+    "kanji": "市外",
+    "kana": "しがい",
+    "antonym": "市内"
+  },
+  {
+    "kanji": "市内",
+    "kana": "しない",
+    "antonym": "市外"
+  },
+  {
+    "kanji": "幕明け・幕開け",
+    "kana": "まくあけ",
+    "antonym": "幕切れ"
+  },
+  {
+    "kanji": "幕切れ",
+    "kana": "まくぎれ",
+    "antonym": "幕開き"
+  },
+  {
+    "kanji": "幕切れ",
+    "kana": "まくぎれ",
+    "antonym": "幕開け"
+  },
+  {
+    "kanji": "不運",
+    "kana": "ふうん",
+    "antonym": "幸運"
+  },
+  {
+    "kanji": "詳細",
+    "kana": "しょうさい",
+    "antonym": "広域"
+  },
+  {
+    "kanji": "慶事",
+    "kana": "けいじ",
+    "antonym": "弔事"
+  },
+  {
+    "kanji": "強み・強味",
+    "kana": "つよみ",
+    "antonym": "弱み"
+  },
+  {
+    "kanji": "強き・強気",
+    "kana": "つよき",
+    "antonym": "弱気"
+  },
+  {
+    "kanji": "強者",
+    "kana": "きょうしゃ",
+    "antonym": "弱者"
+  },
+  {
+    "kanji": "弱",
+    "kana": "じゃく",
+    "antonym": "強"
+  },
+  {
+    "kanji": "弱み・弱味",
+    "kana": "よわみ",
+    "antonym": "強み"
+  },
+  {
+    "kanji": "弱気",
+    "kana": "よわき",
+    "antonym": "強気"
+  },
+  {
+    "kanji": "弱者",
+    "kana": "じゃくしゃ",
+    "antonym": "強者・きょうしゃ"
+  },
+  {
+    "kanji": "外す",
+    "kana": "はずす",
+    "antonym": "当たる"
+  },
+  {
+    "kanji": "先方",
+    "kana": "さきかた・せんぽう",
+    "antonym": "当方"
+  },
+  {
+    "kanji": "落選",
+    "kana": "らくせん",
+    "antonym": "当選"
+  },
+  {
+    "kanji": "前向き",
+    "kana": "まえむき",
+    "antonym": "後ろ向き"
+  },
+  {
+    "kanji": "前方",
+    "kana": "ぜんぽう",
+    "antonym": "後方"
+  },
+  {
+    "kanji": "前期",
+    "kana": "ぜんき",
+    "antonym": "後期"
+  },
+  {
+    "kanji": "前者",
+    "kana": "ぜんしゃ",
+    "antonym": "後者"
+  },
+  {
+    "kanji": "先進",
+    "kana": "せんしん",
+    "antonym": "後進"
+  },
+  {
+    "kanji": "前進",
+    "kana": "ぜんしん",
+    "antonym": "後進・後退"
+  },
+  {
+    "kanji": "失点",
+    "kana": "しってん",
+    "antonym": "得点"
+  },
+  {
+    "kanji": "巨視的",
+    "kana": "きょしてき",
+    "antonym": "微視的"
+  },
+  {
+    "kanji": "偶然",
+    "kana": "ぐうぜん",
+    "antonym": "必然"
+  },
+  {
+    "kanji": "勤勉",
+    "kana": "きんべん",
+    "antonym": "怠惰"
+  },
+  {
+    "kanji": "慢性",
+    "kana": "まんせい",
+    "antonym": "急性"
+  },
+  {
+    "kanji": "善",
+    "kana": "ぜん",
+    "antonym": "悪・あく・1"
+  },
+  {
+    "kanji": "楽観",
+    "kana": "らっかん",
+    "antonym": "悲観"
+  },
+  {
+    "kanji": "軽卒・軽率",
+    "kana": "けいそつ",
+    "antonym": "慎重"
+  },
+  {
+    "kanji": "急性",
+    "kana": "きゅうせい",
+    "antonym": "慢性"
+  },
+  {
+    "kanji": "自働・自動",
+    "kana": "じどう",
+    "antonym": "手動"
+  },
+  {
+    "kanji": "拒否",
+    "kana": "きょひ",
+    "antonym": "承諾"
+  },
+  {
+    "kanji": "具象",
+    "kana": "ぐしょう",
+    "antonym": "抽象"
+  },
+  {
+    "kanji": "具体",
+    "kana": "ぐたい",
+    "antonym": "抽象"
+  },
+  {
+    "kanji": "具体的",
+    "kana": "ぐたいてき",
+    "antonym": "抽象的"
+  },
+  {
+    "kanji": "承諾",
+    "kana": "しょうだく",
+    "antonym": "拒否"
+  },
+  {
+    "kanji": "搬出",
+    "kana": "はんしゅつ",
+    "antonym": "搬入"
+  },
+  {
+    "kanji": "搬入",
+    "kana": "はんにゅう",
+    "antonym": "搬出"
+  },
+  {
+    "kanji": "収入",
+    "kana": "しゅうにゅう",
+    "antonym": "支出"
+  },
+  {
+    "kanji": "守備",
+    "kana": "しゅび",
+    "antonym": "攻撃"
+  },
+  {
+    "kanji": "勝利・捷利",
+    "kana": "しょうり",
+    "antonym": "敗北"
+  },
+  {
+    "kanji": "勝訴",
+    "kana": "しょうそ",
+    "antonym": "敗訴"
+  },
+  {
+    "kanji": "味方・御方・身方",
+    "kana": "みかた",
+    "antonym": "敵"
+  },
+  {
+    "kanji": "未婚",
+    "kana": "みこん",
+    "antonym": "既婚"
+  },
+  {
+    "kanji": "未定",
+    "kana": "みてい",
+    "antonym": "既定"
+  },
+  {
+    "kanji": "未決",
+    "kana": "みけつ",
+    "antonym": "既決"
+  },
+  {
+    "kanji": "未知",
+    "kana": "みち",
+    "antonym": "既知"
+  },
+  {
+    "kanji": "日の出",
+    "kana": "ひので",
+    "antonym": "日の入り・ひのいり"
+  },
+  {
+    "kanji": "日の入り",
+    "kana": "ひのいり",
+    "antonym": "日の出・ひので"
+  },
+  {
+    "kanji": "新株",
+    "kana": "しんかぶ",
+    "antonym": "旧株"
+  },
+  {
+    "kanji": "晩婚",
+    "kana": "ばんこん",
+    "antonym": "早婚"
+  },
+  {
+    "kanji": "降格",
+    "kana": "こうかく",
+    "antonym": "昇格"
+  },
+  {
+    "kanji": "暮・暮れ",
+    "kana": "くれ",
+    "antonym": "明け"
+  },
+  {
+    "kanji": "冥い・昏い・暗い・闇い",
+    "kana": "くらい",
+    "antonym": "明るい"
+  },
+  {
+    "kanji": "六ヶ敷い・六借しい・難しい",
+    "kana": "むずかしい・むつかしい",
+    "antonym": "易しい・やさしい"
+  },
+  {
+    "kanji": "寒い",
+    "kana": "さぶい・さむい",
+    "antonym": "暑い"
+  },
+  {
+    "kanji": "冷房",
+    "kana": "れいぼう",
+    "antonym": "暖房"
+  },
+  {
+    "kanji": "最高",
+    "kana": "さいこう",
+    "antonym": "最低"
+  },
+  {
+    "kanji": "最少",
+    "kana": "さいしょう",
+    "antonym": "最多"
+  },
+  {
+    "kanji": "最小",
+    "kana": "さいしょう",
+    "antonym": "最大"
+  },
+  {
+    "kanji": "最小限・最少限",
+    "kana": "さいしょうげん",
+    "antonym": "最大限"
+  },
+  {
+    "kanji": "最大",
+    "kana": "さいだい",
+    "antonym": "最小"
+  },
+  {
+    "kanji": "最大限",
+    "kana": "さいだいげん",
+    "antonym": "最小限"
+  },
+  {
+    "kanji": "最長",
+    "kana": "さいちょう",
+    "antonym": "最少"
+  },
+  {
+    "kanji": "最多",
+    "kana": "さいた",
+    "antonym": "最少・さいしょう・1"
+  },
+  {
+    "kanji": "最良",
+    "kana": "さいりょう",
+    "antonym": "最悪"
+  },
+  {
+    "kanji": "最長",
+    "kana": "さいちょう",
+    "antonym": "最短"
+  },
+  {
+    "kanji": "最悪",
+    "kana": "さいあく",
+    "antonym": "最良"
+  },
+  {
+    "kanji": "最少",
+    "kana": "さいしょう",
+    "antonym": "最長"
+  },
+  {
+    "kanji": "最短",
+    "kana": "さいたん",
+    "antonym": "最長"
+  },
+  {
+    "kanji": "最低",
+    "kana": "さいてい",
+    "antonym": "最高"
+  },
+  {
+    "kanji": "無人",
+    "kana": "ぶにん・むじん・むにん",
+    "antonym": "有人"
+  },
+  {
+    "kanji": "無効",
+    "kana": "むこう",
+    "antonym": "有効"
+  },
+  {
+    "kanji": "無害",
+    "kana": "むがい",
+    "antonym": "有害・ゆうがい"
+  },
+  {
+    "kanji": "無情",
+    "kana": "むじょう",
+    "antonym": "有情"
+  },
+  {
+    "kanji": "無料",
+    "kana": "むりょう",
+    "antonym": "有料"
+  },
+  {
+    "kanji": "無期",
+    "kana": "むき",
+    "antonym": "有期"
+  },
+  {
+    "kanji": "無給",
+    "kana": "むきゅう",
+    "antonym": "有給"
+  },
+  {
+    "kanji": "無線",
+    "kana": "むせん",
+    "antonym": "有線"
+  },
+  {
+    "kanji": "無縁",
+    "kana": "むえん",
+    "antonym": "有縁"
+  },
+  {
+    "kanji": "無罪",
+    "kana": "むざい",
+    "antonym": "有罪"
+  },
+  {
+    "kanji": "無職",
+    "kana": "むしょく",
+    "antonym": "有職・ゆうしょく・1"
+  },
+  {
+    "kanji": "無能",
+    "kana": "むのう",
+    "antonym": "有能"
+  },
+  {
+    "kanji": "既婚",
+    "kana": "きこん",
+    "antonym": "未婚"
+  },
+  {
+    "kanji": "既定",
+    "kana": "きてい",
+    "antonym": "未定"
+  },
+  {
+    "kanji": "超人",
+    "kana": "ちょうじん",
+    "antonym": "末人"
+  },
+  {
+    "kanji": "去る・避る",
+    "kana": "さる",
+    "antonym": "来る・きたる・1"
+  },
+  {
+    "kanji": "衰える",
+    "kana": "おとろえる",
+    "antonym": "栄える"
+  },
+  {
+    "kanji": "極寒",
+    "kana": "ごくかん・ごっかん",
+    "antonym": "極暑"
+  },
+  {
+    "kanji": "悲観",
+    "kana": "ひかん",
+    "antonym": "楽観"
+  },
+  {
+    "kanji": "充ちる・満ちる・盈ちる",
+    "kana": "みちる",
+    "antonym": "欠ける・かける・4"
+  },
+  {
+    "kanji": "出席",
+    "kana": "しゅっせき",
+    "antonym": "欠席"
+  },
+  {
+    "kanji": "適格",
+    "kana": "てきかく・てっかく",
+    "antonym": "欠格"
+  },
+  {
+    "kanji": "美点",
+    "kana": "びてん",
+    "antonym": "欠点"
+  },
+  {
+    "kanji": "異常",
+    "kana": "いじょう",
+    "antonym": "正常"
+  },
+  {
+    "kanji": "活き・生き",
+    "kana": "いき・イキ",
+    "antonym": "死に"
+  },
+  {
+    "kanji": "死語",
+    "kana": "しご",
+    "antonym": "活語"
+  },
+  {
+    "kanji": "地味",
+    "kana": "じみ",
+    "antonym": "派手"
+  },
+  {
+    "kanji": "深い",
+    "kana": "ふかい",
+    "antonym": "浅い"
+  },
+  {
+    "kanji": "積極",
+    "kana": "しゃっきょく・せっきょく",
+    "antonym": "消極・しょうきょく・1"
+  },
+  {
+    "kanji": "積極的",
+    "kana": "せっきょくてき",
+    "antonym": "消極的・しょうきょくてき"
+  },
+  {
+    "kanji": "濃厚",
+    "kana": "のうこう",
+    "antonym": "淡泊"
+  },
+  {
+    "kanji": "浅い",
+    "kana": "あさい",
+    "antonym": "深い"
+  },
+  {
+    "kanji": "増やす・殖やす",
+    "kana": "ふやす",
+    "antonym": "減らす"
+  },
+  {
+    "kanji": "増える・殖える",
+    "kana": "ふえる",
+    "antonym": "減る"
+  },
+  {
+    "kanji": "増加・増化",
+    "kana": "ぞうか",
+    "antonym": "減少"
+  },
+  {
+    "kanji": "加点",
+    "kana": "かてん",
+    "antonym": "減点"
+  },
+  {
+    "kanji": "増産",
+    "kana": "ぞうさん",
+    "antonym": "減産"
+  },
+  {
+    "kanji": "加速",
+    "kana": "かそく",
+    "antonym": "減速"
+  },
+  {
+    "kanji": "欠ける・缺ける・闕ける",
+    "kana": "かける",
+    "antonym": "満ちる・みちる・2"
+  },
+  {
+    "kanji": "空腹",
+    "kana": "くうふく",
+    "antonym": "満腹"
+  },
+  {
+    "kanji": "空車",
+    "kana": "からぐるま・くうしゃ",
+    "antonym": "満車"
+  },
+  {
+    "kanji": "顕在",
+    "kana": "けんざい",
+    "antonym": "潜在"
+  },
+  {
+    "kanji": "淡泊・淡白・淡薄・澹泊",
+    "kana": "たんぱく",
+    "antonym": "濃厚"
+  },
+  {
+    "kanji": "有人",
+    "kana": "ゆうじん",
+    "antonym": "無人"
+  },
+  {
+    "kanji": "有効",
+    "kana": "ゆうこう",
+    "antonym": "無効"
+  },
+  {
+    "kanji": "有害",
+    "kana": "ゆうがい",
+    "antonym": "無害・むがい"
+  },
+  {
+    "kanji": "有料",
+    "kana": "ゆうりょう",
+    "antonym": "無料"
+  },
+  {
+    "kanji": "有給",
+    "kana": "ゆうきゅう",
+    "antonym": "無給"
+  },
+  {
+    "kanji": "有線",
+    "kana": "ゆうせん",
+    "antonym": "無線"
+  },
+  {
+    "kanji": "有罪",
+    "kana": "ゆうざい",
+    "antonym": "無罪"
+  },
+  {
+    "kanji": "有能",
+    "kana": "ゆうのう",
+    "antonym": "無能"
+  },
+  {
+    "kanji": "冷たい",
+    "kana": "つべたい・つめたい",
+    "antonym": "熱い"
+  },
+  {
+    "kanji": "一般",
+    "kana": "いっぱん",
+    "antonym": "特殊"
+  },
+  {
+    "kanji": "普偏・普辺・普遍",
+    "kana": "ふへん",
+    "antonym": "特殊"
+  },
+  {
+    "kanji": "白人・素人",
+    "kana": "しらひと・しらびと・しろうと・しろと",
+    "antonym": "玄人・くろうと・1"
+  },
+  {
+    "kanji": "同姓",
+    "kana": "どうせい",
+    "antonym": "異姓"
+  },
+  {
+    "kanji": "正常",
+    "kana": "せいじょう",
+    "antonym": "異常"
+  },
+  {
+    "kanji": "委しい・精しい・詳しい",
+    "kana": "くわしい",
+    "antonym": "疎い"
+  },
+  {
+    "kanji": "停車",
+    "kana": "ていしゃ",
+    "antonym": "発車"
+  },
+  {
+    "kanji": "退場",
+    "kana": "たいじょう",
+    "antonym": "登場"
+  },
+  {
+    "kanji": "下山",
+    "kana": "げさん・げざん",
+    "antonym": "登山"
+  },
+  {
+    "kanji": "間接",
+    "kana": "かんせつ",
+    "antonym": "直接・ちょくせつ"
+  },
+  {
+    "kanji": "絶対",
+    "kana": "ぜったい",
+    "antonym": "相対"
+  },
+  {
+    "kanji": "脱衣",
+    "kana": "だつい・だつえ",
+    "antonym": "着衣"
+  },
+  {
+    "kanji": "永い・長い",
+    "kana": "ながい",
+    "antonym": "短い"
+  },
+  {
+    "kanji": "長大",
+    "kana": "ちょうだい",
+    "antonym": "短小"
+  },
+  {
+    "kanji": "長所",
+    "kana": "ちょうしょ",
+    "antonym": "短所"
+  },
+  {
+    "kanji": "長期",
+    "kana": "ちょうき",
+    "antonym": "短期・たんき"
+  },
+  {
+    "kanji": "長期的",
+    "kana": "ちょうきてき",
+    "antonym": "短期的・たんきてき"
+  },
+  {
+    "kanji": "固い・堅い・硬い・緊い",
+    "kana": "かたい",
+    "antonym": "砕けた"
+  },
+  {
+    "kanji": "軟化",
+    "kana": "なんか",
+    "antonym": "硬化"
+  },
+  {
+    "kanji": "公",
+    "kana": "おおやけ",
+    "antonym": "私・わたくし・2"
+  },
+  {
+    "kanji": "公用",
+    "kana": "こうよう",
+    "antonym": "私用"
+  },
+  {
+    "kanji": "税込・税込み",
+    "kana": "ぜいこみ",
+    "antonym": "税引き・税別"
+  },
+  {
+    "kanji": "税引き",
+    "kana": "ぜいひき・ぜいびき",
+    "antonym": "税込み"
+  },
+  {
+    "kanji": "消極",
+    "kana": "しょうきょく",
+    "antonym": "積極・せっきょく"
+  },
+  {
+    "kanji": "消極的",
+    "kana": "しょうきょくてき",
+    "antonym": "積極的・せっきょくてき"
+  },
+  {
+    "kanji": "満腹",
+    "kana": "まんぷく",
+    "antonym": "空腹"
+  },
+  {
+    "kanji": "野暮",
+    "kana": "やぼ・ヤボ",
+    "antonym": "粋・いき・1"
+  },
+  {
+    "kanji": "玄人・黒人",
+    "kana": "くろうと・くろと",
+    "antonym": "素人・しろうと・1"
+  },
+  {
+    "kanji": "開始",
+    "kana": "かいし",
+    "antonym": "終了"
+  },
+  {
+    "kanji": "双対・相対",
+    "kana": "そうたい",
+    "antonym": "絶対"
+  },
+  {
+    "kanji": "白衣",
+    "kana": "しろきぬ・しろぎぬ・はくい・はくえ・びゃくい・びゃくえ",
+    "antonym": "緇衣・しえ・2"
+  },
+  {
+    "kanji": "弛める・緩める",
+    "kana": "ゆるめる",
+    "antonym": "締める"
+  },
+  {
+    "kanji": "締める",
+    "kana": "しめる",
+    "antonym": "緩める"
+  },
+  {
+    "kanji": "急行",
+    "kana": "きゅうこう",
+    "antonym": "緩行"
+  },
+  {
+    "kanji": "欠点",
+    "kana": "けってん",
+    "antonym": "美点"
+  },
+  {
+    "kanji": "否定",
+    "kana": "ひてい",
+    "antonym": "肯定"
+  },
+  {
+    "kanji": "受動",
+    "kana": "じゅどう",
+    "antonym": "能動"
+  },
+  {
+    "kanji": "着衣",
+    "kana": "ちゃくい・ちゃくえ",
+    "antonym": "脱衣"
+  },
+  {
+    "kanji": "手動",
+    "kana": "しゅどう",
+    "antonym": "自動"
+  },
+  {
+    "kanji": "楽",
+    "kana": "らく",
+    "antonym": "苦"
+  },
+  {
+    "kanji": "当選",
+    "kana": "とうせん",
+    "antonym": "落選"
+  },
+  {
+    "kanji": "入選",
+    "kana": "にゅうせん",
+    "antonym": "落選"
+  },
+  {
+    "kanji": "術後",
+    "kana": "じゅつご",
+    "antonym": "術前"
+  },
+  {
+    "kanji": "裏",
+    "kana": "うら",
+    "antonym": "表・おもて・1"
+  },
+  {
+    "kanji": "裏",
+    "kana": "うら",
+    "antonym": "表・おもて・7"
+  },
+  {
+    "kanji": "深層",
+    "kana": "しんそう",
+    "antonym": "表層"
+  },
+  {
+    "kanji": "栄える",
+    "kana": "さかえる",
+    "antonym": "衰える"
+  },
+  {
+    "kanji": "加害者",
+    "kana": "かがいしゃ",
+    "antonym": "被害者"
+  },
+  {
+    "kanji": "表",
+    "kana": "おもて",
+    "antonym": "裏"
+  },
+  {
+    "kanji": "表",
+    "kana": "おもて",
+    "antonym": "裏・うら・8"
+  },
+  {
+    "kanji": "表向き",
+    "kana": "おもてむき",
+    "antonym": "裏向き"
+  },
+  {
+    "kanji": "単数",
+    "kana": "たんすう",
+    "antonym": "複数"
+  },
+  {
+    "kanji": "単純",
+    "kana": "たんじゅん",
+    "antonym": "複雑"
+  },
+  {
+    "kanji": "晴・晴れ・霽れ",
+    "kana": "はれ",
+    "antonym": "褻"
+  },
+  {
+    "kanji": "親孝行",
+    "kana": "おやこうこう",
+    "antonym": "親不孝"
+  },
+  {
+    "kanji": "親不孝・親不幸",
+    "kana": "おやふこう",
+    "antonym": "親孝行"
+  },
+  {
+    "kanji": "反日",
+    "kana": "はんにち",
+    "antonym": "親日"
+  },
+  {
+    "kanji": "反米",
+    "kana": "はんべい",
+    "antonym": "親米"
+  },
+  {
+    "kanji": "圧縮",
+    "kana": "あっしゅく",
+    "antonym": "解凍"
+  },
+  {
+    "kanji": "広域",
+    "kana": "こういき",
+    "antonym": "詳細"
+  },
+  {
+    "kanji": "勝ち",
+    "kana": "かち",
+    "antonym": "負け"
+  },
+  {
+    "kanji": "勝ち越し・勝越し",
+    "kana": "かちこし",
+    "antonym": "負け越し"
+  },
+  {
+    "kanji": "勝ち越す・勝越す",
+    "kana": "かちこす",
+    "antonym": "負け越す"
+  },
+  {
+    "kanji": "反対",
+    "kana": "はんたい",
+    "antonym": "賛成"
+  },
+  {
+    "kanji": "黒字",
+    "kana": "くろじ",
+    "antonym": "赤字"
+  },
+  {
+    "kanji": "硬化",
+    "kana": "こうか",
+    "antonym": "軟化"
+  },
+  {
+    "kanji": "堅調",
+    "kana": "けんちょう",
+    "antonym": "軟調・なんちょう・1"
+  },
+  {
+    "kanji": "転出",
+    "kana": "てんしゅつ",
+    "antonym": "転入"
+  },
+  {
+    "kanji": "重い",
+    "kana": "おもい",
+    "antonym": "軽い"
+  },
+  {
+    "kanji": "重度",
+    "kana": "じゅうど",
+    "antonym": "軽度"
+  },
+  {
+    "kanji": "慎重",
+    "kana": "しんちょう",
+    "antonym": "軽率"
+  },
+  {
+    "kanji": "輸出",
+    "kana": "しゅしゅつ・ゆしゅつ",
+    "antonym": "輸入"
+  },
+  {
+    "kanji": "輸出",
+    "kana": "しゅしゅつ・ゆしゅつ",
+    "antonym": "輸入・ゆにゅう・2"
+  },
+  {
+    "kanji": "輸入",
+    "kana": "しゅにゅう・ゆにゅう",
+    "antonym": "輸出"
+  },
+  {
+    "kanji": "入会",
+    "kana": "にゅうかい",
+    "antonym": "退会"
+  },
+  {
+    "kanji": "進化",
+    "kana": "しんか",
+    "antonym": "退化"
+  },
+  {
+    "kanji": "入団",
+    "kana": "にゅうだん",
+    "antonym": "退団"
+  },
+  {
+    "kanji": "登場",
+    "kana": "とうじょう",
+    "antonym": "退場"
+  },
+  {
+    "kanji": "入場",
+    "kana": "にゅうじょう",
+    "antonym": "退場"
+  },
+  {
+    "kanji": "進歩",
+    "kana": "しんぽ",
+    "antonym": "退歩"
+  },
+  {
+    "kanji": "出社",
+    "kana": "しゅっしゃ",
+    "antonym": "退社"
+  },
+  {
+    "kanji": "静止",
+    "kana": "せいし",
+    "antonym": "運動"
+  },
+  {
+    "kanji": "運よく・運良く",
+    "kana": "うんよく",
+    "antonym": "運悪く"
+  },
+  {
+    "kanji": "過疎",
+    "kana": "かそ",
+    "antonym": "過密"
+  },
+  {
+    "kanji": "過大",
+    "kana": "かだい",
+    "antonym": "過小"
+  },
+  {
+    "kanji": "過多",
+    "kana": "かた",
+    "antonym": "過少"
+  },
+  {
+    "kanji": "過密",
+    "kana": "かみつ",
+    "antonym": "過疎"
+  },
+  {
+    "kanji": "酷暑",
+    "kana": "こくしょ",
+    "antonym": "酷寒"
+  },
+  {
+    "kanji": "軽い",
+    "kana": "かるい・かろい",
+    "antonym": "重い"
+  },
+  {
+    "kanji": "粋",
+    "kana": "いき",
+    "antonym": "野暮"
+  },
+  {
+    "kanji": "短い・短かい",
+    "kana": "みじかい",
+    "antonym": "長い"
+  },
+  {
+    "kanji": "短かめ・短か目・短め・短目",
+    "kana": "みじかめ",
+    "antonym": "長め"
+  },
+  {
+    "kanji": "短所",
+    "kana": "たんしょ",
+    "antonym": "長所"
+  },
+  {
+    "kanji": "短期",
+    "kana": "たんき",
+    "antonym": "長期・ちょうき"
+  },
+  {
+    "kanji": "開場",
+    "kana": "かいじょう",
+    "antonym": "閉場"
+  },
+  {
+    "kanji": "開幕",
+    "kana": "かいまく",
+    "antonym": "閉幕"
+  },
+  {
+    "kanji": "終了",
+    "kana": "しゅうりょう",
+    "antonym": "開始"
+  },
+  {
+    "kanji": "閉幕",
+    "kana": "へいまく",
+    "antonym": "開幕"
+  },
+  {
+    "kanji": "昇格",
+    "kana": "しょうかく",
+    "antonym": "降格"
+  },
+  {
+    "kanji": "昇級",
+    "kana": "しょうきゅう",
+    "antonym": "降級"
+  },
+  {
+    "kanji": "昇給",
+    "kana": "しょうきゅう",
+    "antonym": "降給"
+  },
+  {
+    "kanji": "陽",
+    "kana": "よう",
+    "antonym": "陰"
+  },
+  {
+    "kanji": "陽性",
+    "kana": "ようせい",
+    "antonym": "陰性"
+  },
+  {
+    "kanji": "陽気",
+    "kana": "ようき",
+    "antonym": "陰気"
+  },
+  {
+    "kanji": "陰性",
+    "kana": "いんせい",
+    "antonym": "陽性"
+  },
+  {
+    "kanji": "陰気",
+    "kana": "いんき",
+    "antonym": "陽気"
+  },
+  {
+    "kanji": "健常者",
+    "kana": "けんじょうしゃ",
+    "antonym": "障害者"
+  },
+  {
+    "kanji": "俗",
+    "kana": "しょく・ぞく",
+    "antonym": "雅・が・1"
+  },
+  {
+    "kanji": "発散",
+    "kana": "はっさん",
+    "antonym": "集束"
+  },
+  {
+    "kanji": "易しい",
+    "kana": "やさしい",
+    "antonym": "難しい・むずかしい・1"
+  },
+  {
+    "kanji": "動",
+    "kana": "どう",
+    "antonym": "静"
+  },
+  {
+    "kanji": "運動",
+    "kana": "うんどう",
+    "antonym": "静止"
+  },
+  {
+    "kanji": "平凡",
+    "kana": "へいぼん",
+    "antonym": "非凡"
+  },
+  {
+    "kanji": "凡",
+    "kana": "ぼん",
+    "antonym": "非凡"
+  },
+  {
+    "kanji": "逆境",
+    "kana": "ぎゃっきょう",
+    "antonym": "順境"
+  },
+  {
+    "kanji": "潜在",
+    "kana": "せんざい",
+    "antonym": "顕在"
+  },
+  {
+    "kanji": "風下",
+    "kana": "かざしも",
+    "antonym": "風上・かざかみ"
+  },
+  {
+    "kanji": "風上",
+    "kana": "かざかみ",
+    "antonym": "風下・かざしも"
+  },
+  {
+    "kanji": "低い",
+    "kana": "ひくい",
+    "antonym": "高い"
+  },
+  {
+    "kanji": "安価",
+    "kana": "あんか",
+    "antonym": "高価"
+  },
+  {
+    "kanji": "低利",
+    "kana": "ていり",
+    "antonym": "高利・こうり"
+  },
+  {
+    "kanji": "小額・少額",
+    "kana": "しょうがく",
+    "antonym": "高額"
+  },
+  {
+    "kanji": "赤字",
+    "kana": "あかじ",
+    "antonym": "黒字"
+  },
+  {
+    "kanji": "音読",
+    "kana": "おんどく",
+    "antonym": "黙読"
+  }
+]
